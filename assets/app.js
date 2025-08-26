@@ -2,12 +2,12 @@
 /* Sample data — replace with your own or fetch from API */
 const researchers = [
   { 
-    name: 'Dr. Hadi Affendy Dahlan', 
+    name: 'Dr. Dahlila Putri Dahnil', 
     role: 'Head of Lab', 
-    area: 'B.E (UIA), MSc (UPMalaysia),  PhD (University of York, UK)', 
-    email: 'had86@ukm.edu.my', 
-    interests: ['Remote Monitoring', 'Pattern Recognition'], 
-    orcid: '+03 - 8921  6070' 
+    area: 'B.Eng. Electronics Comm (Sheffield), MSc (UTMalaysia), Ph.D(MMUniversity, Malaysia)', 
+    email: 'mrm@ukm.edu.my', 
+    interests: ['IoT', 'Wireless Sensor Network'], 
+    orcid: '+03 - 8921 6665   '
   },
   { 
     name: 'Prof. Dr. Mohd Juzaiddin Ab Aziz', 
@@ -26,12 +26,12 @@ const researchers = [
     orcid: '+03 - 8921 6096/ 6665' 
   },
   { 
-    name: 'Dr. Dahlila Putri Dahnil', 
+    name: 'Dr. Hadi Affendy Dahlan', 
     role: 'Senior Lecturer', 
-    area: 'B.Eng. Electronics Comm (Sheffield), MSc (UTMalaysia), Ph.D(MMUniversity, Malaysia)', 
-    email: 'mrm@ukm.edu.my', 
-    interests: ['IoT', 'Wireless Sensor Network'], 
-    orcid: '+03 - 8921 6665   ' 
+    area: 'B.E (UIA), MSc (UPMalaysia),  PhD (University of York, UK)', 
+    email: 'had86@ukm.edu.my', 
+    interests: ['Remote Monitoring', 'Pattern Recognition'], 
+    orcid: '+03 - 8921  6070' 
   },
   { 
     name: 'Ts. Dr. Fazlina Mohd Ali', 
