@@ -40,23 +40,24 @@ const researchers = [
     email: 'fazlina.mohdali@ukm.edu.my', 
     interests: ['Parallel and Distributed Computing', 'Data Management / Data Replication', 'Cloud Computing', 'Information System Management / ICT Project Management'], 
     orcid: '+03 - 8921 6710' 
-  },
-  { 
-    name: 'Ts. Dr. Mohammad Kamrul Hasan', 
-    role: 'Associate Researcher', 
-    area: 'CYBER, FTSM UKM', 
-    email: 'mkhasan@ukm.edu.my', 
-    interests: ['Artificial Intelligence', 'Mobile Communication', 'Sensor Network'], 
-    orcid: '+03 - 8921 6167' 
-  },
-  { 
-    name: 'Dr. Faizan Qamar', 
-    role: 'Associate Researcher', 
-    area: 'CYBER, FTSM UKMG & IoT', 
-    email: 'faizanqamar@ukm.edu.my', 
-    interests: ['5G Cellular Communications', 'Internet of Things (IoT)', 'Network Quality of Service', 'Wireless Network Design'], 
-    orcid: '+03-8911 8269' 
   }
+  //,
+ // { 
+ //   name: 'Ts. Dr. Mohammad Kamrul Hasan', 
+//    role: 'Associate Researcher', 
+//    area: 'CYBER, FTSM UKM', 
+//    email: 'mkhasan@ukm.edu.my', 
+//    interests: ['Artificial Intelligence', 'Mobile Communication', 'Sensor Network'], 
+//    orcid: '+03 - 8921 6167' 
+//  },
+//  { 
+//    name: 'Dr. Faizan Qamar', 
+//    role: 'Associate Researcher', 
+//    area: 'CYBER, FTSM UKMG & IoT', 
+//    email: 'faizanqamar@ukm.edu.my', 
+//    interests: ['5G Cellular Communications', 'Internet of Things (IoT)', 'Network Quality of Service', 'Wireless Network Design'], 
+//    orcid: '+03-8911 8269' 
+ // }
 ];
 
 // const students = [
