@@ -73,6 +73,7 @@ const students = [
   { name: 'Zhou Qin', level: 'PhD', topic: 'Information Systems', supervisor: '', email: 'P121139@siswa.ukm.edu.my', phone: '+8616623316632' },
   { name: 'Cao Jing', level: 'PhD', topic: 'SLR, deep learning, NLP', supervisor: '', email: 'P125898@siswa.ukm.edu.my', phone: '+8618566205529' },
   { name: 'Li Shihao', level: 'PhD', topic: 'IoT, Information Systems, Knowledge Graph', supervisor: '', email: 'P125236@siswa.ukm.edu.my', phone: '+8615521438748' },
+  { name: 'Ahmed Lebbe Sayeth Saabith', level: 'PhD', topic: 'Deep Learning, Hyperspectral Image Classification, Edge Computing', supervisor: '', email: 'P134200@siswa.ukm.edu.my', phone: '+601123392544' },
   { name: 'Amzari Bin Mohd Roslan', level: 'Master', topic: 'Hybrid Cloud Computing, Data Security & Encryption', supervisor: '', email: 'P146040@siswa.ukm.edu.my', phone: '+60139080721' },
 ];
 
