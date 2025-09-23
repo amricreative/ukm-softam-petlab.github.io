@@ -5,7 +5,7 @@ const researchers = [
     name: 'Dr. Dahlila Putri Dahnil', 
     role: 'Head of Lab', 
     area: 'B.Eng. Electronics Comm (Sheffield), MSc (UTMalaysia), Ph.D(MMUniversity, Malaysia)', 
-    email: 'mrm@ukm.edu.my', 
+    email: 'dahlilaputri@ukm.edu.my', 
     interests: ['IoT', 'Wireless Sensor Network'], 
     orcid: '+03 - 8921 6665   '
   },
@@ -127,6 +127,8 @@ const publications = [
   { year: 2017, title: 'Handover in LTE-advanced wireless networks: state of art and survey of decision algorithm', authors: 'R Ahmad, EA Sundararajan, NE Othman, M Ismail', venue: 'Telecommunication Systems', link: '' },
   { year: 2020, title: 'Online clustering of evolving data streams using a density grid-based method', authors: 'M Tareq, EA Sundararajan, M Mohd, NS Sani', venue: 'IEEE Access', link: '' },
   { year: 2014, title: 'Parallel and distributed computing models on a graphics processing unit to accelerate simulation of membrane systems', authors: 'A Maroosi, RC Muniyandi, E Sundararajan, AM Zin', venue: 'Simulation Modelling Practice and Theory', link: '' },
+  { year: 2025, title: 'A Survey of Smart Campus Resource Information Management in Internet of Things', authors: 'L. Shihao, D. P. Dahnil and S. Saad', venue: 'IEEE Access, vol. 13, pp. 66622-66645', link: '' },
+  { year: 2025, title: 'A data augmentation approach based on various GAN models to address class imbalance in fine-grained multimodal fake news datasets', authors: 'S. K. Hamed, M. J. Ab Aziz, and M. R. Yaakub', venue: 'Computing, vol. 107, no. 1', link: '' },
   { year: 2023, title: 'Fake News Detection Model On Social Media By Leveraging Sentiment Analysis Of News Content And Emotion Analysis Of Users Comments', authors: 'Suhaib Kh. Hamed, Mohd Juzaiddin Ab Aziz, Mohd Ridzwan Yaakub', venue: 'Sensors', link: '' },
   { year: 2022, title: 'A Systematic Literature Review And Meta-analysis On Scalable Blockchain-based Electronic Voting Systems', authors: 'Uzma Jafar, Mohd Juzaiddin Ab Aziz, Zarina Shukur, Hafiz Adnan Hussain', venue: 'Sensors', link: '' },
   { year: 2022, title: 'A Hybrid Mcdm Approach Based On Fuzzy-logic And Dematel To Evaluate Adult Obesity', authors: 'Mahmood Safaei, Elankovan A Sundararajan, Shahla Asadi, Mehrbakhsh Nilashi, Mohd Juzaiddin Ab Aziz, Ms Saravanan, Maha Abdelhaq, Raed Alsaqour', venue: 'International Journal of Environmental Research and Public Health', link: '' },
