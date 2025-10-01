@@ -99,7 +99,11 @@ const grants = [
   { id: 11, title: 'A novel plant root-based evolutionary algorithm to solve Mobile Cloud Computing Workflow Scheduling Problem, FRGS/1/2014/ICT07/UKM/02/1', pi: '', amount: '', start: '', end: '', status: 'Completed' },
   { id: 12, title: 'Word sense disambiguation using language resources for transliteration of Arabic, FRGS/1/2012/SG05/UKM/02/14', pi: '', amount: '', start: '', end: '', status: 'Completed' },
   { id: 13, title: 'New techniques for sentence similarity computation, UKM-GUP-2011-241', pi: '', amount: '', start: '', end: '', status: 'Completed' },
-  { id: 14, title: 'Penyemak peperiksaan esei bahasa melayu secara automatic, UKM-DIPM-039-2011', pi: '', amount: '', start: '', end: '', status: 'Completed' }
+  { id: 14, title: 'Penyemak peperiksaan esei bahasa melayu secara automatic, UKM-DIPM-039-2011', pi: '', amount: '', start: '', end: '', status: 'Completed' },
+  { id: 15, title: 'Enhancing Braille Literacy through Novel Interactive Features: A Multidisciplinary Approach to Improve User Engagement in Braille Learning Devices, UKM-TR2024-13', pi: '', amount: '', start: '', end: '', status: 'Completed' },
+  { id: 16, title: 'Development of a GPU-Accelerated Data Engineering Pipeline for Large-Scale Malay Language Processing, WARISAN-2025-002', pi: '', amount: '', start: '', end: '', status: 'Completed' },
+  { id: 17, title: 'Multi-Factor Replica Placement Strategy For Resource Failure Extenuation In Cloud Replication Environment, Geran Galakan Penyelidik Muda (GGPM)', pi: '', amount: '', start: '', end: '', status: 'Completed' },
+  { id: 18, title: 'Pengurusan dan Perkongsian Data Bagi Model Bahasa Besar LLM - WARISAN AI-BM, INISIATIF BELANJAWAN 2025 : AI ENHANCEMENT (BAHASA)', pi: '', amount: '', start: '', end: '', status: 'Completed' }
 ];
 
 // const publications = [
