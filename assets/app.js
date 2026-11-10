@@ -69,13 +69,13 @@ const researchers = [
 // ];
 
 const students = [
-  { name: 'Hussein Al-Omaisi', level: 'PhD', topic: 'Vehicular Networking, Information-Centric Networking, Routing Protocols, Wireless Networks', supervisor: '', email: 'alomaisi.hussein@gmail.com', phone: '+60 176 360 527' },
-  { name: 'Zhang Tianxing', level: 'PhD', topic: 'Multimodal Emotion Recognition in teaching, Intelligent Transportation System (ITS), IoT, Machine learning, Artificial intelligence applications', supervisor: '', email: 'P117810@siswa.ukm.edu.my', phone: '+8613859028978' },
-  { name: 'Zhou Qin', level: 'PhD', topic: 'Information Systems', supervisor: '', email: 'P121139@siswa.ukm.edu.my', phone: '+8616623316632' },
-  { name: 'Cao Jing', level: 'PhD', topic: 'SLR, deep learning, NLP', supervisor: '', email: 'P125898@siswa.ukm.edu.my', phone: '+8618566205529' },
-  { name: 'Li Shihao', level: 'PhD', topic: 'IoT, Information Systems, Knowledge Graph', supervisor: '', email: 'P125236@siswa.ukm.edu.my', phone: '+8615521438748' },
-  { name: 'Ahmed Lebbe Sayeth Saabith', level: 'PhD', topic: 'Deep Learning, Hyperspectral Image Classification, Edge Computing', supervisor: '', email: 'P134200@siswa.ukm.edu.my', phone: '+601123392544' },
-  { name: 'Amzari Bin Mohd Roslan', level: 'Master', topic: 'Hybrid Cloud Computing, Data Security & Encryption', supervisor: '', email: 'P146040@siswa.ukm.edu.my', phone: '+60139080721' },
+  { name: 'Hussein Al-Omaisi', level: 'PhD', topic: 'Vehicular Networking, Information-Centric Networking, Routing Protocols, Wireless Networks', supervisor: '', email: 'alomaisi.hussein@gmail.com' },
+  { name: 'Zhang Tianxing', level: 'PhD', topic: 'Multimodal Emotion Recognition in teaching, Intelligent Transportation System (ITS), IoT, Machine learning, Artificial intelligence applications', supervisor: '', email: 'P117810@siswa.ukm.edu.my' },
+  { name: 'Zhou Qin', level: 'PhD', topic: 'Information Systems', supervisor: '', email: 'P121139@siswa.ukm.edu.my'},
+  { name: 'Cao Jing', level: 'PhD', topic: 'SLR, deep learning, NLP', supervisor: '', email: 'P125898@siswa.ukm.edu.my' },
+  { name: 'Li Shihao', level: 'PhD', topic: 'IoT, Information Systems, Knowledge Graph', supervisor: '', email: 'P125236@siswa.ukm.edu.my' },
+  { name: 'Ahmed Lebbe Sayeth Saabith', level: 'PhD', topic: 'Deep Learning, Hyperspectral Image Classification, Edge Computing', supervisor: '', email: 'P134200@siswa.ukm.edu.my' },
+  { name: 'Amzari Bin Mohd Roslan', level: 'Master', topic: 'Hybrid Cloud Computing, Data Security & Encryption', supervisor: '', email: 'P146040@siswa.ukm.edu.my'},
 ];
 
 // const grants = [
